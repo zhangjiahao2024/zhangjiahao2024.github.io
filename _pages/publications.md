@@ -14,7 +14,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-[Google Scholar](https://scholar.google.com/citations?user=TAb6ScIAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Jiahao-Zhang-15).
+[Google Scholar](https://scholar.google.com/citations?user=TAb6ScIAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Jiahao-Zhang-15), [ORCID](https://orcid.org/my-orcid?orcid=0000-0003-4789-5473).
 
 
 Journal Publication
