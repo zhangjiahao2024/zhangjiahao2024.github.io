@@ -23,18 +23,18 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Jiahao Zhang"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/his"  
   bio              : "PhD Student at UQ"
   location         : "Brisbane"
-  employer         : "The University of Queensland"
+  employer         : "University of Queensland"
   uri              : # URL
-  email            : "zhangjiahao@zju.edu.cn" 
+  email            : "jiahao.zhang@uq.edu.au" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=TAb6ScIAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : #"https://orcid.org/my-orcid?orcid=0000-0003-4789-5473"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-4789-5473"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Jiahao-Zhang-15"
 
