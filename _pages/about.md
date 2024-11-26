@@ -15,8 +15,9 @@ Research Areas
 * Connected and Automated Vehicles
 * Travel Behaviors
 * Decision Making
-* Intersection
+* Sustainable Driving
 * Intelligent Transportation System
+* Traffic Safety
 
 
 Visitors
