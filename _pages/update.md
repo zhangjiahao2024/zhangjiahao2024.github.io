@@ -8,9 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-
-- # 🚀 Highlight
-
 #### Here is a timeline of significant milestones and progress throughout my PhD journey:
 
 <!--
