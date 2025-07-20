@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-#### Here is a timeline of significant milestones and progress throughout my PhD journey:
+- ### Here is a timeline of significant milestones and progress throughout my PhD journey:
 
 <!--
  ## 🗓️ 2025
@@ -22,8 +22,8 @@ author_profile: true
 <br>
 <br>
 
- ## 🗓️ 2024
-- **2024-10** — Started my PhD Journey at UQ!  
+- ## 🗓️ 2024
+ - **2024-10** — Started my PhD Journey at UQ!  
 
 <br>
 <br>
