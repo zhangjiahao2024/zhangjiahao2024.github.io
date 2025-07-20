@@ -3,8 +3,7 @@ layout: archive
 title: "Update"
 permalink: /update/
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 
 {% include base_path %}
