@@ -12,10 +12,11 @@ author_profile: true
 
 <br>
 
-<!--
+
 ## 🗓️ 2025
-- **2025-07-10** — Passed PhD Confirmation successfully ✅  
-- **2025-06-18** — Paper *"Scenario-Aware Risk-based Car-Following Model"* accepted at IEEE ITSC 2025 🎉  
+- **2025-11-14** — Passed PhD Confirmation successfully 🎉 
+<!--
+- **2025-06-18** — Paper *"Scenario-Aware Risk-based Car-Following Model"* accepted at IEEE ITSC 2025 🎉  ✅ 
 - **2025-04-01** — Started collaborative project with QUT & local hospitals on driver behavior and liver health 🧪  
 
 
