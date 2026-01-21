@@ -14,7 +14,7 @@ author_profile: true
 
 
 ## 🗓️ 2025
-- **2025-11-14** — Passed PhD Confirmation successfully!🎉
+- **2025-11-14** — Passed my [PhD Confirmation](https://civil.uq.edu.au/event/session/5439) successfully!🎉
   <p align="left">
     <img src="https://github.com/user-attachments/assets/f2ee1954-2e9b-45b8-af49-92f140dafb60" width="200">
   </p>
