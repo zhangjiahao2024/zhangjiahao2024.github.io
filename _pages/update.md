@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Update"
+title: "Gallery"
 permalink: /update/
 author_profile: true
 
