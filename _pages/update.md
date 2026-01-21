@@ -20,7 +20,7 @@ author_profile: true
   </p>
 
 ## 🗓️ 2024
-- **2024-10** — Started my PhD Journey at UQ!  
+- **2024-10** — Started my [PhD Journey](https://civil.uq.edu.au/profile/5288/jiahao-zhang) at UQ!  
 
 <br>
 <br>
