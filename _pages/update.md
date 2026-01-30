@@ -12,7 +12,7 @@ author_profile: true
 <br>
 
 ## 🗓️ 2026
-- **2026-1-23** — "Robust Two-Dimensional Platoon Strategy for Connected and Automated Vehicles" has been accepted by [Physica A](https://www.sciencedirect.com/journal/physica-a-statistical-mechanics-and-its-applications) !🎉
+- **2026-1-23** — "Robust Two-Dimensional Platoon Strategy for Connected and Automated Vehicles" has been accepted by [Physica A](https://www.sciencedirect.com/journal/physica-a-statistical-mechanics-and-its-applications) !
  
 ## 🗓️ 2025
 - **2025-11-14** — Passed my [PhD Confirmation](https://civil.uq.edu.au/event/session/5439) successfully!🎉
