@@ -18,7 +18,7 @@ author_profile: true
 - **2025-11-14** — Passed my [PhD Confirmation](https://civil.uq.edu.au/event/session/5439) successfully!🎉
 
 ## 🗓️ 2024
-- **2024-10** — Started my [PhD Journey](https://civil.uq.edu.au/profile/5288/jiahao-zhang) at UQ!  
+- **2024-10** — Started my [PhD Journey](https://civil.uq.edu.au/profile/5288/jiahao-zhang) at UQ!🎈
 
 <br>
 <br>
