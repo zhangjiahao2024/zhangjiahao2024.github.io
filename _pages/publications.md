@@ -19,6 +19,7 @@ author_profile: true
 
 Journal Publication
 ----------
+* [9] **Zhang, J.**, Qi, H. (2026). Robust two-dimensional platoon strategy for connected and automated vehicles. Physica A: Statistical Mechanics and its Applications, [doi](https://doi.org/10.1016/j.physa.2026.131324).
 * [8] **Zhang, J.**, Qi, H. (2024). Intelligent driving model considering vehicular dynamics and heterogeneous road environments. Transportation Letters, 17(1), 119-134, [doi](https://doi.org/10.1080/19427867.2024.2329469).
 * [7] **Zhang, J.**, Zhang, Y. Qi, H. (2021) Two-dimensional intelligent driving model and application based on virtual boundary. Journal of Harbin Institute of Technology, 55(7), 15-23, [doi](http://hit.alljournals.cn/html/hitxb_cn/2023/7/20230703.html).
 * [6] **Zhang, J.**, Huang, A., Jiang, R., Li, X., (2022) Flexible Scheduling Model of Bus Services between Venues of the Beijing Winter Olympic Games, Journal of Advanced Transportation, 2022(2134806), 15, [doi](https://onlinelibrary.wiley.com/doi/full/10.1155/2022/2134806).
