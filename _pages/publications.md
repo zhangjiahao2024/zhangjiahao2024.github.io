@@ -25,9 +25,9 @@ Journal Publications
 
 [7] <ins>**Zhang, J.**</ins>, Zhang, Y. Qi, H. (2021). *Two-dimensional intelligent driving model and application based on virtual boundary.* **Journal of Harbin Institute of Technology**, 55(7), 15-23, [doi](http://hit.alljournals.cn/html/hitxb_cn/2023/7/20230703.html).
 
-[6] <ins>**Zhang, J.**</ins>, Huang, A., Jiang, R., Li, X. (2022). *Flexible Scheduling Model of Bus Services between Venues of the Beijing Winter Olympic Games.* **Journal of Advanced Transportation*, 2022(2134806), 15, [doi](https://onlinelibrary.wiley.com/doi/full/10.1155/2022/2134806).
+[6] <ins>**Zhang, J.**</ins>, Huang, A., Jiang, R., Li, X. (2022). *Flexible Scheduling Model of Bus Services between Venues of the Beijing Winter Olympic Games.* **Journal of Advanced Transportation**, 2022(2134806), 15, [doi](https://onlinelibrary.wiley.com/doi/full/10.1155/2022/2134806).
 
-[5] Qi, H., Cheng, C., Hu, X., <ins>**Zhang, J.**</ins> (2022). *Online inference of lane changing events for connected and automated vehicle applications with analytical logistic diffusion stochastic differential equation.* *Transportation Research Part C*, 144, 103874, [doi](https://doi.org/10.1016/j.trc.2022.103874).
+[5] Qi, H., Cheng, C., Hu, X., <ins>**Zhang, J.**</ins> (2022). *Online inference of lane changing events for connected and automated vehicle applications with analytical logistic diffusion stochastic differential equation.* **Transportation Research Part C**, 144, 103874, [doi](https://doi.org/10.1016/j.trc.2022.103874).
 
 [4] Zhang Y., <ins>**Zhang, J.**</ins>, Qi, H. (2022). *Intersection Outlet Saturation Flow Rate (OSFR) Considering Game Behavior Within Intersection.* **IEEE Access**, 10, 112629-112638, [doi](https://ieeexplore.ieee.org/abstract/document/9878314).
 
