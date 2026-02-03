@@ -28,7 +28,7 @@ Awards & Scholarships
 ------
 #### Postgraduate state
 ----
-* The [**Exceptional Round PhD Scholarship of the University of Queensland**](https://scholarships.uq.edu.au/scholarship/graduate-school-scholarships-uqgss-%E2%80%93-includes-rtp), (**2024**)
+* The [**The PhD Scholarship of the University of Queensland (Exceptional Round)**](https://scholarships.uq.edu.au/scholarship/graduate-school-scholarships-uqgss-%E2%80%93-includes-rtp), (**2024**)
 * Honorary title of “Merit A Student” of Zhejiang University in the 2022-2023 academic year, (**2023**)
 * Award of Honor for Graduate award of Zhejiang University on 2022-2023, (**2023**)
 * Outstanding Graduate Leader Award of Zhejiang University on 2021-2022, (**2022**)
