@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am currently a Ph.D. Candidate of [The University of Queensland](https://www.uq.edu.au/), supervised by [Prof. Zuduo Zheng](http://www.connectedandautonomoustransport.com/dr-zhengs-research.html) (Principal) and [As/Prof. Jiwon Kim](https://www.jiwonkim.co/about/) (Associate). Before I joined the UQ, I obtained my Master's Degree from [Zhejiang University](https://www.zju.edu.cn/english/). My research focuses on the sustainability of driving behaviors in connected and automated vehicles (CAVs), with the goal of enhancing energy efficiency, reducing vehicle emissions, and improving road safety in future transportation systems.
+I am currently a Ph.D. Candidate of [The University of Queensland](https://www.uq.edu.au/), supervised by [Prof. Zuduo Zheng](http://www.connectedandautonomoustransport.com/dr-zhengs-research.html) and [As/Prof. Jiwon Kim](https://www.jiwonkim.co/about/). Before I joined the UQ, I obtained my Master's Degree from [Zhejiang University](https://www.zju.edu.cn/english/). My research focuses on the sustainability of driving behaviors in connected and automated vehicles (CAVs), with the goal of enhancing energy efficiency, reducing vehicle emissions, and improving road safety in future transportation systems.
 
 Research Interests
 ------
