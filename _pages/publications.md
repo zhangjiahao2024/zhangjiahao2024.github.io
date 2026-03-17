@@ -40,7 +40,9 @@ Journal Publications
 
 Conference Proceedings
 -------
-[5] <ins>**Zhang, J.**</ins>, Qi, H. (2023). *Driving Maneuver Estimation for Naturalist Driving Data with State Space Model Predictive Control.* **China Automation Congress**, Chongqing, [doi]
+[6] Zhang, M., Wang, D., Yu, H., <ins>**Zhang, J.**</ins>, Cai, Z. (2026). *A Subarea-Based Multi Agent Reinforcement Learning Approach for Traffic Signal Control*, **2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC)**, Gold Coast, [doi](https://ieeexplore.ieee.org/document/11423188).
+
+[5] <ins>**Zhang, J.**</ins>, Qi, H. (2023). *Driving Maneuver Estimation for Naturalist Driving Data with State Space Model Predictive Control.*, **China Automation Congress**, Chongqing, [doi](https://ieeexplore.ieee.org/abstract/document/10450846).
 
 [4] <ins>**Zhang, J.**</ins>, Qi, H. (2022). *Two-Dimensional Intelligent Driver Model with Vehicular Dynamics.* **SAE 2022 Intelligent and Connected Vehicles Symposium**, Shanghai, [doi](https://www.sae.org/publications/technical-papers/content/2022-01-7088/).
 
