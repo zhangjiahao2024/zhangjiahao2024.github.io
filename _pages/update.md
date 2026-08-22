@@ -15,6 +15,7 @@ author_profile: true
 <br>
 
 ## 🗓️ 2026
+- **【8/2026】** — "Car-following stability and its influence on Fuel Consumption and Emissions: Evidence from empirical data" has been accepted by [ATRF2026](https://atrf2026.org/) !
 - **【1/2026】** — "Robust Two-Dimensional Platoon Strategy for Connected and Automated Vehicles" has been accepted by [Physica A](https://www.sciencedirect.com/journal/physica-a-statistical-mechanics-and-its-applications) !
  
 ## 🗓️ 2025
