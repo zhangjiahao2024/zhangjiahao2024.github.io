@@ -19,7 +19,9 @@ Education
 
 Awards & Scholarships
 ------
+<!--
 * Nominated by The University of Queensland for the [**Google PhD Research Fellowship Program**](https://research.google/programs-and-events/phd-fellowship/) (**1 of 3 university nominees**), (**2026**)
+-->
 * Recipient of the Zhejiang Provincial Outstanding Master's Thesis Award ([**Official Report**](https://mp.weixin.qq.com/s/LCBV86R12GI7x7tD8VfDmw)), (**2026**)
 * The PhD Scholarship of the University of Queensland [**(Exceptional Round)**](https://scholarships.uq.edu.au/scholarship/graduate-school-scholarships-uqgss-%E2%80%93-includes-rtp), (**2024**)
 * Honorary title of “Merit A Student” of Zhejiang University in the 2022-2023 academic year, (**2023**)
